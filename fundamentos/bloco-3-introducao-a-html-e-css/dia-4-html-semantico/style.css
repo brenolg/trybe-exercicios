@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+header {
+    background-color: rgb(8, 133, 112);
+    border-bottom: 3px solid rgb(160, 157, 157);
+    
+}
+header h1 {
+    padding: 25px;
+    color: white;
+    text-align: center;
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+nav li {
+    text-decoration: none;
+    padding-bottom: 25px;
+    font-size: 20px;
+    list-style: none;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+
+}
+main {
+    background-color: rgb(12, 153, 129);
+    color: white;
+    padding: 10vw;
+    padding: auto;
+}
