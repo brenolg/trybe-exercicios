@@ -32,12 +32,17 @@ a {
     text-decoration: none;
     color: white;
 
+
 }
+
+
 main {
     background-color: rgb(12, 153, 129);
     color: white;
     padding: 10vw;
     padding: auto;
+    
+    
 }
 
 #sessao1 {
@@ -46,10 +51,23 @@ main {
     
 }
 
+#foto {
+    background-image:  url('280px-Odontodactylus_scyllarus1.jpg');
+    position: center;
+    background-size: 100% 100%;
+    width: 440px;
+    height: 330px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+}
+
 #sessao1 article{
     width: 60%;
     text-align: justify;
 }
+
+
 
 aside img {
     width: 455px;
@@ -92,7 +110,7 @@ p {
 }
 
 
-h3 {
+h4 {
     font-size: 25px;
     text-align: center;
     padding: 100px;
@@ -108,4 +126,10 @@ footer {
     text-align: center;
     background-color:  rgb(8, 133, 112);
     border: 3px solid rgb(160, 157, 157);;
+}
+
+#aside h3{
+    font-size: 12px;
+    padding: 0;
+    margin: 0;
 }
