@@ -39,3 +39,54 @@ main {
     padding: 10vw;
     padding: auto;
 }
+
+#sessao1 {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+#sessao1 article{
+    width: 60%;
+    text-align: justify;
+}
+
+aside img {
+    width: 455px;
+    
+    border-spacing: 0;
+    border-radius: 20px;
+    padding: 3px;
+}
+
+table {
+    border-spacing: 0;
+}
+aside {
+    width: 35%;
+    text-align: center;
+    justify-content: center;
+    border-radius: 20px;
+    border: 3px solid rgb(160, 157, 157);  
+}
+
+table tr , td , th{
+    border: 3px solid rgb(160, 157, 157);
+    border-radius: 20px;
+    text-align: center;
+    padding: 5px 0px 5px;
+}
+
+#tabela { 
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 25px;
+    text-align: center;
+    font-size: 25px;
+}
+
+p {
+    font-size: 18px;
+}
