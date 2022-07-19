@@ -96,9 +96,16 @@ h3 {
     font-size: 25px;
     text-align: center;
     padding: 100px;
+    vertical-align: baseline;
     
 }
 
 #sessao3 a {
     text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    background-color:  rgb(8, 133, 112);
+    border: 3px solid rgb(160, 157, 157);;
 }
