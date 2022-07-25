@@ -11,3 +11,5 @@ for  (let index = 0; index < numbers.length; index += 1) {
 mediaA = soma / numbers.length;
 
 console.log(mediaA);
+
+//calcule e imprima a média aritmética dos valores contidos no array;//

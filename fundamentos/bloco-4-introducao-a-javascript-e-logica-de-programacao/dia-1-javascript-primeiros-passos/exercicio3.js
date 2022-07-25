@@ -8,3 +8,5 @@ if (a > b && a > c) {
 }else{
     console.log(c + " e o maior valor")
 }
+
+//Faça um programa que retorne o maior de três números//

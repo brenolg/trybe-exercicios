@@ -31,3 +31,5 @@ switch (peca) {
         console.log("Parametro invalido");
         break;
 } 
+
+//Escreva um programa que receba o nome de uma peça de xadrez e retorne os movimentos que ela faz.//

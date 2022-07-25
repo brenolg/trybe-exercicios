@@ -7,3 +7,5 @@ for  (let index = 0; index < numbers.length; index += 1) {
 }
 
 console.log(soma);
+
+//ome todos os valores contidos no array e imprima o resultado;//

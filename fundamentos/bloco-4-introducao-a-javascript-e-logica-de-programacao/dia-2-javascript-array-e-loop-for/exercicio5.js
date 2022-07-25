@@ -10,3 +10,5 @@ for  (let i = 0; i < numbers.length; i+= 1) {
 }
 
 console.log(maiorN)
+
+//descubra qual o maior valor contido no array e imprima-o;

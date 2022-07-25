@@ -20,3 +20,5 @@ if (nota >= 90) {
 }else if (nota < 0 || nota > 100) {
     console.log('Valor invalido');
 } 
+
+//Escreva um programa que converte uma nota dada em porcentagem (de 0 a 100) em conceitos de A a F. Siga essas regras://

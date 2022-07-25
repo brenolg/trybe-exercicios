@@ -15,3 +15,5 @@ if (impar == 0) {
 else {
     console.log('Temos ' + impar + ' números ímpares no array.')
 }
+
+//Descubra quantos valores ímpares existem no array e imprima o resultado//

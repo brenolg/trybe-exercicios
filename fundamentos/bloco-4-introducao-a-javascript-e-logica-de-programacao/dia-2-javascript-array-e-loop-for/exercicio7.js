@@ -10,3 +10,5 @@ for  (let i = 0; i < numbers.length; i+= 1) {
 }
 
 console.log(menorN + 'é o menor numero')
+
+//Utilizando for, descubra qual o menor valor contido no array e imprima-o;//

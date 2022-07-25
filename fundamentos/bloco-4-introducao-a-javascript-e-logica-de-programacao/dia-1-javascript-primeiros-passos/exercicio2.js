@@ -6,3 +6,5 @@ if (a > b) {
 }else {
     console.log(b + " e o maior valor")
 }
+
+//Faça um programa que retorne o maior de dois números.//

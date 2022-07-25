@@ -5,3 +5,5 @@ for  (let index = 0; index < numbers.length; index += 1) {
 
 
 }
+
+//percorra o array imprimindo todos os valores nele contidos com a função console.log();//
